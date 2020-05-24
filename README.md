@@ -1,6 +1,12 @@
 # database_intro
 
 A new Flutter project.
+A simple app to explore google firebase and its features that lead us to making of a robust application in future.
+Here in this app simple input of data and displaying it to the screen by a FirebaseAnimatorListView.
+Realtime Database is used to create and read the database.
+
+<img src ="screenshot/1.png" width="250">|<img src ="screenshot/2.png" width="250">|<img src ="screenshot/3.png" width="250">
+
 
 ## Getting Started
 
