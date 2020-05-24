@@ -1,4 +1,5 @@
-# database_intro
+## database_intro 
+# using realtime database (FIREBASE)
 
 A new Flutter project.
 A simple app to explore google firebase and its features that lead us to making of a robust application in future.
